@@ -1,8 +1,9 @@
 G22-FGRRP
-by 105502506 106502549
+Football Game "Risky" Result Predictor
+Final Project of Data Science by 105502506 106502549
 2020.1.7
 
-Database: https://www.kaggle.com/hugomathien/soccer/download
+Download Database before running: https://www.kaggle.com/hugomathien/soccer/download
 
 1. run FGRRP.py
 2. Select Home -> Country -> Team
