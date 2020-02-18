@@ -1,0 +1,2 @@
+cd C:\Users\user\Documents\001Data Science\final
+python -m PyQt5.uic.pyuic -o FGRRP.py FGRRP.ui
